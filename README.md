@@ -61,7 +61,11 @@ The following are the information you need to solve the task:
 
 ## Solution 2: Analyze the logins
 
+![VSCodium_uZAQ1sonhl](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case/assets/135963482/6dd5f616-c236-4bd0-a108-7ded3ded9611)
+
 ![VSCodium_nr5xTiy4QT](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case/assets/135963482/74d9e2e2-e787-4daa-8df1-a440cc8c5413)
+
+![VSCodium_tZGUet57Ac](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case/assets/135963482/2cd72910-72d2-48d0-8d3e-2f103e52ba54)
 
 ![VSCodium_HDOTgERsrM](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case/assets/135963482/f7783f9c-c6fd-4774-95cd-b9a20dde4eef)
 
@@ -76,3 +80,12 @@ The following are the information you need to solve the tasks:
 * Find the IP adddress in the form of 192.xxx.xxx and analzye the logs. These are the logs : `eraab 2022-05-10 6:03:41 192.168.152.148 \niuduike 2022-05-09 6:46:40 192.168.22.115 \nsmartell 2022-05-09 19:30:32 192.168.190.178 \narutley 2022-05-12 17:00:59 1923.1689.3.24 \nrjensen 2022-05-11 0:59:26 192.168.213.128 \naestrada 2022-05-09 19:28:12 1924.1680.27.57 \nasundara 2022-05-11 18:38:07 192.168.96.200 \ndkot 2022-05-12 10:52:00 1921.168.1283.75 \nabernard 2022-05-12 23:38:46 19245.168.2345.49 \ncjackson 2022-05-12 19:36:42 192.168.247.153 \njclark 2022-05-10 10:48:02 192.168.174.117 \nalevitsk 2022-05-08 12:09:10 192.16874.1390.176 \njrafael 2022-05-10 22:40:01 192.168.148.115 \nyappiah 2022-05-12 10:37:22 192.168.103.10654 \ndaquino 2022-05-08 7:02:35 192.168.168.144`.
   
 ## Solution 3: Regular expression to find patterns 
+
+![VSCodium_u1rtYP668a](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case/assets/135963482/db973cbd-7675-4350-a90a-a8adb913a143)
+
+![VSCodium_8WHA6qceQG](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case/assets/135963482/3660542c-81d2-44e6-a3f7-075341777b4f)
+
+![VSCodium_uSnjVJnrtb](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case/assets/135963482/4090d131-ea47-48fc-9808-6be9ab84edee)
+
+![VSCodium_vCcUqcxSyC](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case/assets/135963482/7aa9af22-5352-4166-a5eb-754b96524f50)
+
