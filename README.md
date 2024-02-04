@@ -7,6 +7,8 @@ There are three scenarios that I developed and modified for this project.
 * Second, analyze the logins with Python.
 * Third, use regular expressions to find patterns. 
 
+The solution can be found in the notebook `Python-Cybersecurity-Automation-Case.ipynb`
+
 ## Scenario 1: Automate the login process
 
 The security analyst team at XYZ Corp has asked you to automate the login process system. They require you to use python for automation. The objective is to automate the login process so the administrators do not have to approve the authentication manually.  
